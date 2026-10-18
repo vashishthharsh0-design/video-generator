@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CineFlow AI</string>
+    <string name="nav_create">Generate</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_audio">Audio AI</string>
+    <string name="nav_export">Export</string>
+</resources>

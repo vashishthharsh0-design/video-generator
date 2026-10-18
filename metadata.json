@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow AI",
+  "description": "Professional AI Video Generator & Multi-Track Studio with prompt-to-clip creation, cinematic styles, AI noise reduction, and 4K multi-aspect export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
